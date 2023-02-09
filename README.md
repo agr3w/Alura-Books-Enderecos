@@ -7,7 +7,7 @@ Projeto do curso: "JavaScript: consumindo e tratando dados de uma API" na plataf
 | -------------  | --- |
 | :sparkles: Nome        | **AluraBooks - Endereços**
 | :label: Tecnologias | JavaScript, HTMl e CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://alura-books-enderecos.vercel.app/
 | :fire: Curso     | JavaScript: consumindo e tratando dados de uma API
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
