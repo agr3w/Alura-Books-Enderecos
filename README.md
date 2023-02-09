@@ -11,7 +11,7 @@ Projeto do curso: "JavaScript: consumindo e tratando dados de uma API" na plataf
 | :fire: Curso     | JavaScript: consumindo e tratando dados de uma API
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Screenshot_7](https://user-images.githubusercontent.com/91283681/217806764-51436c14-4339-465e-bf47-fab008e39e45.png)
+![Screenshot_7](https://user-images.githubusercontent.com/91283681/217806764-51436c14-4339-465e-bf47-fab008e39e45.png#vitrinedev)
 
 ## Detalhes do projeto
 
