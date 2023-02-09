@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# AluraBooks - Endereços
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto do curso: "JavaScript: consumindo e tratando dados de uma API" na plataforma Alura. Instrutora: Mônica Mazzochi Hillman.
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **AluraBooks - Endereços**
+| :label: Tecnologias | JavaScript, HTMl e CSS
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Curso     | JavaScript: consumindo e tratando dados de uma API
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_7](https://user-images.githubusercontent.com/91283681/217806764-51436c14-4339-465e-bf47-fab008e39e45.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto muito intuitivo e interessante de se ter feito, com certeza irei aplicar as informações dele em algum projeto futuro.
